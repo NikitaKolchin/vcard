@@ -1,0 +1,3941 @@
+[
+    {
+        "ID":  185906,
+        "Title":  "Кондрашов Роман Евгеньевич",
+        "Firstname":  "Роман",
+        "Lastname":  "Кондрашов",
+        "Patronymic":  "Евгеньевич",
+        "Position":  "Начальник Управления",
+        "Email":  "kondrashovre@cbr.ru",
+        "Sip":  "sip:22kondrashovre@cbr.ru",
+        "WorkPhone":  "(831) 249-53-96; (831) 438-19-42",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-61-42; 53-96; 19-42",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-111",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kondrashovre.jpg"
+    },
+    {
+        "ID":  167788,
+        "Title":  "Крук Владимир Иванович",
+        "Firstname":  "Владимир",
+        "Lastname":  "Крук",
+        "Patronymic":  "Иванович",
+        "Position":  "Заместитель начальника Управления",
+        "Email":  "KrukVI@cbr.ru",
+        "Sip":  "SIP:KrukVI@cbr.ru",
+        "WorkPhone":  "(831) 249-53-35; (831) 431-98-35",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-60-35; 53-35; 18-35",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-108",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22krukvi.jpg"
+    },
+    {
+        "ID":  167682,
+        "Title":  "Шишков Алексей Дмитриевич",
+        "Firstname":  "Алексей",
+        "Lastname":  "Шишков",
+        "Patronymic":  "Дмитриевич",
+        "Position":  "Заместитель начальника Управления",
+        "Email":  "shishkov@cbr.ru",
+        "Sip":  "sip:22shishkov@cbr.ru",
+        "WorkPhone":  "(831) 431-96-45; (831) 249-53-45",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-45; 53-45",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-110",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22shishkov.jpg"
+    },
+    {
+        "ID":  166411,
+        "Title":  "Быкова Татьяна Александровна",
+        "Firstname":  "Татьяна",
+        "Lastname":  "Быкова",
+        "Patronymic":  "Александровна",
+        "Position":  "Заведующий сектором",
+        "Email":  "bikovata@cbr.ru",
+        "Sip":  "sip:bikovata@cbr.ru",
+        "WorkPhone":  "(831) 249-54-45; (831) 249-53-49",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "53-49; 54-45",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114б",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22bikovata.jpg"
+    },
+    {
+        "ID":  196819,
+        "Title":  "Громыко Наталия Юрьевна",
+        "Firstname":  "Наталия",
+        "Lastname":  "Громыко",
+        "Patronymic":  "Юрьевна",
+        "Position":  "Заведующий сектором",
+        "Email":  "GromykoNU@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-98-17",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-17",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-107",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gromykonu.jpg"
+    },
+    {
+        "ID":  193280,
+        "Title":  "Каляева Екатерина Сергеевна",
+        "Firstname":  "Екатерина",
+        "Lastname":  "Каляева",
+        "Patronymic":  "Сергеевна",
+        "Position":  "Заведующий сектором",
+        "Email":  "KalyaevaES@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 438-19-92; (831) 249-53-68",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "19-92; 53-68",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  "",
+        "Department":  {
+                           "ID":  340042928,
+                           "Title":  "Сектор координации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-213",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=1040; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Заведующий сектором; UserName=Каляева Екатерина Сергеевна; PositionId=19; Performers=System.Object[]; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25685; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22kalyaevaes.jpg"
+    },
+    {
+        "ID":  175778,
+        "Title":  "Колчин Никита Вячеславович",
+        "Firstname":  "Никита",
+        "Lastname":  "Колчин",
+        "Patronymic":  "Вячеславович",
+        "Position":  "Заведующий сектором",
+        "Email":  "KolchinNV@cbr.ru",
+        "Sip":  "sip:22KolchinNV@cbr.ru",
+        "WorkPhone":  "(831) 438-19-03",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-63-44; 56-36; 19-03",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042908,
+                           "Title":  "Сектор сопровождения прикладных платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-202",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kolchinnv.jpg"
+    },
+    {
+        "ID":  180293,
+        "Title":  "Кочетков Евгений Александрович",
+        "Firstname":  "Евгений",
+        "Lastname":  "Кочетков",
+        "Patronymic":  "Александрович",
+        "Position":  "Заведующий сектором",
+        "Email":  "KochetkovEA01@cbr.ru",
+        "Sip":  "sip:KochetkovEA01@cbr.ru",
+        "WorkPhone":  "(831) 249-54-02",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-02; 41-62-48; 29-24",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kochetkovea.jpg"
+    },
+    {
+        "ID":  171764,
+        "Title":  "Тимофеев Александр Борисович",
+        "Firstname":  "Александр",
+        "Lastname":  "Тимофеев",
+        "Patronymic":  "Борисович",
+        "Position":  "Заведующий сектором",
+        "Email":  "TimofeevAB@cbr.ru",
+        "Sip":  "sip:22TimofeevAB@cbr.ru",
+        "WorkPhone":  "(831) 249-53-85; (831) 438-18-59",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "12-59; 53-85",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-208",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22timofeevab.jpg"
+    },
+    {
+        "ID":  174779,
+        "Title":  "Чистяков Артём Александрович",
+        "Firstname":  "Артём",
+        "Lastname":  "Чистяков",
+        "Patronymic":  "Александрович",
+        "Position":  "Заведующий сектором",
+        "Email":  "ChistyakovAA01@cbr.ru",
+        "Sip":  "sip:ChistyakovAA01@cbr.ru",
+        "WorkPhone":  "(831) 431-97-87",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-61-50; 17-87",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042909,
+                           "Title":  "Сектор эксплуатации технологических платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-314",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22chistyakovaa.jpg"
+    },
+    {
+        "ID":  182963,
+        "Title":  "Жданов Олег Николаевич",
+        "Firstname":  "Олег",
+        "Lastname":  "Жданов",
+        "Patronymic":  "Николаевич",
+        "Position":  "Начальник отдела",
+        "Email":  "zdanovon@cbr.ru",
+        "Sip":  "sip:zdanovon@cbr.ru",
+        "WorkPhone":  "(831) 438-18-87",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-01; 12-87",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042906,
+                           "Title":  "Отдел эксплуатации и сопровождения платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22zdanovon.jpg"
+    },
+    {
+        "ID":  171863,
+        "Title":  "Зимин Андрей Юрьевич",
+        "Firstname":  "Андрей",
+        "Lastname":  "Зимин",
+        "Patronymic":  "Юрьевич",
+        "Position":  "Начальник отдела",
+        "Email":  "ZiminAY@cbr.ru",
+        "Sip":  "sip:ZiminAY@cbr.ru",
+        "WorkPhone":  "(831) 249-53-56; (831) 249-54-54",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-54; 53-56",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042927,
+                           "Title":  "Отдел координации и планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-107",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22ziminay.jpg"
+    },
+    {
+        "ID":  180746,
+        "Title":  "Корякин Василий Алексеевич",
+        "Firstname":  "Василий",
+        "Lastname":  "Корякин",
+        "Patronymic":  "Алексеевич",
+        "Position":  "Начальник отдела",
+        "Email":  "korjakinva@cbr.ru",
+        "Sip":  "sip:korjakinva@cbr.ru",
+        "WorkPhone":  "(831) 431-96-95; (831) 433-86-00",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-95; 55-95; 41-60-95",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-211",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22korjakinva.jpg"
+    },
+    {
+        "ID":  180747,
+        "Title":  "Локтев Сергей Николаевич",
+        "Firstname":  "Сергей",
+        "Lastname":  "Локтев",
+        "Patronymic":  "Николаевич",
+        "Position":  "Начальник отдела",
+        "Email":  "LoktevSN@cbr.ru",
+        "Sip":  "sip:LoktevSN@cbr.ru",
+        "WorkPhone":  "(831) 433-60-04; (831) 431-98-27",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-27; 41-60-27; 55-09",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-043",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22loktevsn.jpg"
+    },
+    {
+        "ID":  166866,
+        "Title":  "Аитов Булат Бельгеевич",
+        "Firstname":  "Булат",
+        "Lastname":  "Аитов",
+        "Patronymic":  "Бельгеевич",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "AitBB@cbr.ru",
+        "Sip":  "sip:AitBB@cbr.ru",
+        "WorkPhone":  "(831) 431-98-34; (831) 249-53-34",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-34; 53-34",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042927,
+                           "Title":  "Отдел координации и планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-213",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22aitovbb.jpg"
+    },
+    {
+        "ID":  181666,
+        "Title":  "Козлов Игорь Николаевич",
+        "Firstname":  "Игорь",
+        "Lastname":  "Козлов",
+        "Patronymic":  "Николаевич",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "KozlovIN@cbr.ru",
+        "Sip":  "sip:KozlovIN@cbr.ru",
+        "WorkPhone":  "(831) 249-54-30",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-61-34",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-205",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kozlovin.jpg"
+    },
+    {
+        "ID":  171763,
+        "Title":  "Овсянников Александр Сергеевич",
+        "Firstname":  "Александр",
+        "Lastname":  "Овсянников",
+        "Patronymic":  "Сергеевич",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "OvsianAS@cbr.ru",
+        "Sip":  "sip:22OvsianAS@cbr.ru",
+        "WorkPhone":  "(831) 438-18-42",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "56-27; 12-42",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-211",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22ovsianas.jpg"
+    },
+    {
+        "ID":  192835,
+        "Title":  "Первушин Евгений Владимирович",
+        "Firstname":  "Евгений",
+        "Lastname":  "Первушин",
+        "Patronymic":  "Владимирович",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "PerEV@cbr.ru",
+        "Sip":  "sip:PerEV@cbr.ru",
+        "WorkPhone":  "(831) 431-96-77",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-77; 16-77",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042906,
+                           "Title":  "Отдел эксплуатации и сопровождения платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22perev.jpg"
+    },
+    {
+        "ID":  165619,
+        "Title":  "Прохоров Андрей Владимирович",
+        "Firstname":  "Андрей",
+        "Lastname":  "Прохоров",
+        "Patronymic":  "Владимирович",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "ProkhorovAV@cbr.ru",
+        "Sip":  "sip:ProkhorovAV@cbr.ru",
+        "WorkPhone":  "(831) 431-97-31; (831) 249-53-79",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-31; 41-63-16; 53-79",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042906,
+                           "Title":  "Отдел эксплуатации и сопровождения платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-203",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22prokhorovav.jpg"
+    },
+    {
+        "ID":  183189,
+        "Title":  "Тарабарин Сергей Николаевич",
+        "Firstname":  "Сергей",
+        "Lastname":  "Тарабарин",
+        "Patronymic":  "Николаевич",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "TarabarinSN@cbr.ru",
+        "Sip":  "sip:22TarabarinSN@cbr.ru",
+        "WorkPhone":  "(831) 438-18-57; (831) 249-53-75",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "12-57; 53-75",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-209",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22tarabarinsn.jpg"
+    },
+    {
+        "ID":  171859,
+        "Title":  "Фитасов Виктор Владимирович",
+        "Firstname":  "Виктор",
+        "Lastname":  "Фитасов",
+        "Patronymic":  "Владимирович",
+        "Position":  "Заместитель начальника отдела",
+        "Email":  "FitasovVV@cbr.ru",
+        "Sip":  "sip:22FitasovVV@cbr.ru",
+        "WorkPhone":  "(831) 431-96-65; (831) 249-53-65",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-60-65",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-211",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22fitasovvv.jpg"
+    },
+    {
+        "ID":  166769,
+        "Title":  "",
+        "Firstname":  null,
+        "Lastname":  null,
+        "Patronymic":  null,
+        "Position":  "Факс",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-34",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-34",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-212",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png"
+    },
+    {
+        "ID":  184354,
+        "Title":  "Автоответчик сети ВТС",
+        "Firstname":  null,
+        "Lastname":  "Автоответчик сети ВТС",
+        "Patronymic":  null,
+        "Position":  "_",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "13-58",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  null,
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png"
+    },
+    {
+        "ID":  270141,
+        "Title":  "Андреев Михаил Николаевич",
+        "Firstname":  "Михаил",
+        "Lastname":  "Андреев",
+        "Patronymic":  "Николаевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "AndreevMN01@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-47",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-011",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22andreevmn.jpg"
+    },
+    {
+        "ID":  164411,
+        "Title":  "АТС",
+        "Firstname":  null,
+        "Lastname":  "АТС",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Р\", к. Р-119",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png"
+    },
+    {
+        "ID":  164422,
+        "Title":  "АТС",
+        "Firstname":  null,
+        "Lastname":  "АТС",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "12-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-005",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png"
+    },
+    {
+        "ID":  170967,
+        "Title":  "АТС",
+        "Firstname":  null,
+        "Lastname":  "АТС",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "44-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "Ошарская, к. Ошарская",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png"
+    },
+    {
+        "ID":  179482,
+        "Title":  "АТС",
+        "Firstname":  null,
+        "Lastname":  "АТС",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "25-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"ул. Рождественская 27\", к. Рж-113",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png"
+    },
+    {
+        "ID":  183226,
+        "Title":  "АТС",
+        "Firstname":  null,
+        "Lastname":  "АТС",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "42-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "Пискунова, к. Пискунова",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png"
+    },
+    {
+        "ID":  190307,
+        "Title":  "Бабаева Марианна Валерьевна",
+        "Firstname":  "Марианна",
+        "Lastname":  "Бабаева",
+        "Patronymic":  "Валерьевна",
+        "Position":  "Ведущий экономист",
+        "Email":  "BabaevaMV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-33",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-33",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-109",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22babaevamv.jpg"
+    },
+    {
+        "ID":  263074,
+        "Title":  "Бобылев Алексей Леонидович",
+        "Firstname":  "Алексей",
+        "Lastname":  "Бобылев",
+        "Patronymic":  "Леонидович",
+        "Position":  "Ведущий инженер",
+        "Email":  "BobylevAL@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-99",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-99; 41-63-99",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=57680; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Ведущий инженер; UserName=Бобылев Алексей Леонидович; PositionId=6; Performers=System.Object[]; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25733; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22bobyleval.jpg"
+    },
+    {
+        "ID":  169491,
+        "Title":  "Бугров Михаил Владимирович",
+        "Firstname":  "Михаил",
+        "Lastname":  "Бугров",
+        "Patronymic":  "Владимирович",
+        "Position":  "Главный инженер",
+        "Email":  "BugrovMV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "14-89",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-043",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22bugrovmv.jpg"
+    },
+    {
+        "ID":  194282,
+        "Title":  "Веселов Михаил Анатольевич",
+        "Firstname":  "Михаил",
+        "Lastname":  "Веселов",
+        "Patronymic":  "Анатольевич",
+        "Position":  "Главный инженер",
+        "Email":  "VeselovMA@cbr.ru",
+        "Sip":  "sip:22VeselovMA@cbr.ru",
+        "WorkPhone":  "(831) 438-19-02",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-63-45; 19-02",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-205",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22veselovma.jpg"
+    },
+    {
+        "ID":  168280,
+        "Title":  "Владимирская Юлия Николаевна",
+        "Firstname":  "Юлия",
+        "Lastname":  "Владимирская",
+        "Patronymic":  "Николаевна",
+        "Position":  "Ведущий экономист",
+        "Email":  "VladimirskayaYN@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-50",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-50",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-109",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22vladimirskayayn.jpg"
+    },
+    {
+        "ID":  162568,
+        "Title":  "Воробьев Александр Викторович",
+        "Firstname":  "Александр",
+        "Lastname":  "Воробьев",
+        "Patronymic":  "Викторович",
+        "Position":  "Главный инженер",
+        "Email":  "VorobevAV02@cbr.ru",
+        "Sip":  "sip:VorobevAV02@cbr.ru",
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "49-16; 41-61-58",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042908,
+                           "Title":  "Сектор сопровождения прикладных платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-202",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22vorobevav.jpg"
+    },
+    {
+        "ID":  175598,
+        "Title":  "Ганюхина Елена Николаевна",
+        "Firstname":  "Елена",
+        "Lastname":  "Ганюхина",
+        "Patronymic":  "Николаевна",
+        "Position":  "Главный инженер",
+        "Email":  "GanuhEN@cbr.ru",
+        "Sip":  "sip:22GanuhEN@cbr.ru",
+        "WorkPhone":  "(831) 438-19-01",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-63-46",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042908,
+                           "Title":  "Сектор сопровождения прикладных платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-202",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22ganuhen.jpg"
+    },
+    {
+        "ID":  189085,
+        "Title":  "Горб Оксана Геннадьевна",
+        "Firstname":  "Оксана",
+        "Lastname":  "Горб",
+        "Patronymic":  "Геннадьевна",
+        "Position":  "Ведущий инженер",
+        "Email":  "GorbOG@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-78",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-78",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-043",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gorbog.jpg"
+    },
+    {
+        "ID":  173548,
+        "Title":  "Горбунов Михаил Лаврович",
+        "Firstname":  "Михаил",
+        "Lastname":  "Горбунов",
+        "Patronymic":  "Лаврович",
+        "Position":  "Консультант",
+        "Email":  "gorbunovml@cbr.ru",
+        "Sip":  "sip:gorbunovml@cbr.ru",
+        "WorkPhone":  "(831) 249-53-47",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "53-47; 14-26",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-104",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gorbunovml.jpg"
+    },
+    {
+        "ID":  188025,
+        "Title":  "Горбунова Анна Алексеевна",
+        "Firstname":  "Анна",
+        "Lastname":  "Горбунова",
+        "Patronymic":  "Алексеевна",
+        "Position":  "Ведущий экономист",
+        "Email":  "GorbunovaAA@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-60",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-60",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-209",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gorbunovaaa.jpg"
+    },
+    {
+        "ID":  166771,
+        "Title":  "Горнов Михаил Анатольевич",
+        "Firstname":  "Михаил",
+        "Lastname":  "Горнов",
+        "Patronymic":  "Анатольевич",
+        "Position":  "Главный инженер",
+        "Email":  "GornovMA@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-99",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-60-99; 16-99; 53-99",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gornovma.jpg"
+    },
+    {
+        "ID":  183114,
+        "Title":  "Горшков Александр Владимирович",
+        "Firstname":  "Александр",
+        "Lastname":  "Горшков",
+        "Patronymic":  "Владимирович",
+        "Position":  "Главный инженер",
+        "Email":  "GorshkovAV@cbr.ru",
+        "Sip":  "sip:22GorshkovAV@cbr.ru",
+        "WorkPhone":  "(831) 431-98-43",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-43",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-210",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gorshkovav.jpg"
+    },
+    {
+        "ID":  176957,
+        "Title":  "Готовко Владимир Владимирович",
+        "Firstname":  "Владимир",
+        "Lastname":  "Готовко",
+        "Patronymic":  "Владимирович",
+        "Position":  "Руководитель направления",
+        "Email":  "GotovkoVV@cbr.ru",
+        "Sip":  "sip:GotovkoVV@cbr.ru",
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "29-47; 15-33",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-011",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22gotovkovv.jpg"
+    },
+    {
+        "ID":  170971,
+        "Title":  "Грехов Александр Сергеевич",
+        "Firstname":  "Александр",
+        "Lastname":  "Грехов",
+        "Patronymic":  "Сергеевич",
+        "Position":  "Главный инженер",
+        "Email":  "GrehovAS@cbr.ru",
+        "Sip":  "sip:GrehovAS@cbr.ru",
+        "WorkPhone":  "(831) 249-54-23",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-23; 41-60-23",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-205",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22grehovas.jpg"
+    },
+    {
+        "ID":  169257,
+        "Title":  "Гусев Дмитрий Юрьевич",
+        "Firstname":  "Дмитрий",
+        "Lastname":  "Гусев",
+        "Patronymic":  "Юрьевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "gusevdu@cbr.ru",
+        "Sip":  "sip:22gusevdu@cbr.ru",
+        "WorkPhone":  "(831) 431-97-48",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "56-20; 17-48",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-208",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=654; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Ведущий инженер; UserName=Гусев Дмитрий Юрьевич; PositionId=6; Performers=System.Object[]; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25438; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22gusevdu.jpg"
+    },
+    {
+        "ID":  174425,
+        "Title":  "Дежурная служба",
+        "Firstname":  null,
+        "Lastname":  "Дежурная служба",
+        "Patronymic":  null,
+        "Position":  "Дежурная служба",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "29-10",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042906,
+                           "Title":  "Отдел эксплуатации и сопровождения платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png"
+    },
+    {
+        "ID":  183944,
+        "Title":  "Дежурная служба",
+        "Firstname":  null,
+        "Lastname":  "Дежурная служба",
+        "Patronymic":  null,
+        "Position":  "Дежурная служба",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-02",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114б",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png"
+    },
+    {
+        "ID":  188546,
+        "Title":  "Дежурная служба РОСТ ВСП",
+        "Firstname":  null,
+        "Lastname":  "Дежурная служба РОСТ ВСП",
+        "Patronymic":  null,
+        "Position":  "Дежурная служба",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 349-53-38; (831) 431-98-26",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "15-59; 53-38; 37-25; 37-24; 18-26",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-002",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png"
+    },
+    {
+        "ID":  193205,
+        "Title":  "Дежурная служба фирма \"Z\"",
+        "Firstname":  null,
+        "Lastname":  "Дежурная служба фирма \"Z\"",
+        "Patronymic":  null,
+        "Position":  "Дежурная служба",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-95",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-95",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Р\", к. Р-015",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png"
+    },
+    {
+        "ID":  175263,
+        "Title":  "Дежурный отдела",
+        "Firstname":  null,
+        "Lastname":  "Дежурный отдела",
+        "Patronymic":  null,
+        "Position":  "Дежурный",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 434-18-15",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-43",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png"
+    },
+    {
+        "ID":  165932,
+        "Title":  "Дежурный ПУ Н.Новгород",
+        "Firstname":  null,
+        "Lastname":  "Дежурный ПУ Н.Новгород",
+        "Patronymic":  null,
+        "Position":  "Дежурная служба",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-53-88",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "53-88",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\"",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png"
+    },
+    {
+        "ID":  197290,
+        "Title":  "Дежурный ТиТП",
+        "Firstname":  null,
+        "Lastname":  "Дежурный ТиТП",
+        "Patronymic":  null,
+        "Position":  "Дежурный",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "30-79",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png"
+    },
+    {
+        "ID":  167752,
+        "Title":  "Денисова Ольга Григорьевна",
+        "Firstname":  "Ольга",
+        "Lastname":  "Денисова",
+        "Patronymic":  "Григорьевна",
+        "Position":  "Ведущий экономист",
+        "Email":  "denisovaog01@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-32",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-32",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042928,
+                           "Title":  "Сектор координации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-213",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22denisovaog.jpg"
+    },
+    {
+        "ID":  193803,
+        "Title":  "Диспетчерская служба УИ",
+        "Firstname":  null,
+        "Lastname":  "Диспетчерская служба УИ",
+        "Patronymic":  null,
+        "Position":  "Дежурная служба",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "15-55",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  5218,
+                           "Title":  "Управление информатизации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\"",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png"
+    },
+    {
+        "ID":  166772,
+        "Title":  "Дмитриенко Сергей Анатольевич",
+        "Firstname":  "Сергей",
+        "Lastname":  "Дмитриенко",
+        "Patronymic":  "Анатольевич",
+        "Position":  "Руководитель направления",
+        "Email":  "DmitrienSA@cbr.ru",
+        "Sip":  "sip:DmitrienSA@cbr.ru",
+        "WorkPhone":  "(831) 431-98-39",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-39; 55-11",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-043",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22dmitriensa.jpg"
+    },
+    {
+        "ID":  174295,
+        "Title":  "Егоров Дмитрий Станиславович",
+        "Firstname":  "Дмитрий",
+        "Lastname":  "Егоров",
+        "Patronymic":  "Станиславович",
+        "Position":  "Главный инженер",
+        "Email":  "EgorovDS@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "15-63",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-043",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22egorovds.jpg"
+    },
+    {
+        "ID":  183176,
+        "Title":  "Елисеев Сергей Иванович",
+        "Firstname":  "Сергей",
+        "Lastname":  "Елисеев",
+        "Patronymic":  "Иванович",
+        "Position":  "Главный инженер",
+        "Email":  "eliseevsi@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-48",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-03; 54-48",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22eliseevsi.jpg"
+    },
+    {
+        "ID":  186031,
+        "Title":  "Еремин Владимир Вячеславович",
+        "Firstname":  "Владимир",
+        "Lastname":  "Еремин",
+        "Patronymic":  "Вячеславович",
+        "Position":  "Главный экономист",
+        "Email":  "EreminVV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-12",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-12",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-107",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22ereminvv.jpg"
+    },
+    {
+        "ID":  269097,
+        "Title":  "Захаров Александр Александрович",
+        "Firstname":  "Александр",
+        "Lastname":  "Захаров",
+        "Patronymic":  "Александрович",
+        "Position":  "Инженер 1 категории",
+        "Email":  "ZakharovAA02@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-52",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-60-50; 53-55; 16-52",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22zakharovaa.jpg"
+    },
+    {
+        "ID":  189852,
+        "Title":  "Иванушкова Ольга Евгеньевна",
+        "Firstname":  "Ольга",
+        "Lastname":  "Иванушкова",
+        "Patronymic":  "Евгеньевна",
+        "Position":  "Главный инженер",
+        "Email":  "IvanushkovaOE@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-06",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-06",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-209",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22ivanushkovaoe.jpg"
+    },
+    {
+        "ID":  185544,
+        "Title":  "Кабанов Олег Георгиевич",
+        "Firstname":  "Олег",
+        "Lastname":  "Кабанов",
+        "Patronymic":  "Георгиевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "KabanovOG@cbr.ru",
+        "Sip":  "sip:22KabanovOG@cbr.ru",
+        "WorkPhone":  "(831) 431-96-71",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-71",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042908,
+                           "Title":  "Сектор сопровождения прикладных платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-203",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kabanovog.jpg"
+    },
+    {
+        "ID":  170603,
+        "Title":  "Казаков Андрей Михайлович",
+        "Firstname":  "Андрей",
+        "Lastname":  "Казаков",
+        "Patronymic":  "Михайлович",
+        "Position":  "Руководитель направления",
+        "Email":  "KazakovAM@cbr.ru",
+        "Sip":  "sip:KazakovAM@cbr.ru",
+        "WorkPhone":  "(831) 431-97-11",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-11; 53-53",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kazakovam.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  174621,
+        "Title":  "Карклин Алексей Владимирович",
+        "Firstname":  "Алексей",
+        "Lastname":  "Карклин",
+        "Patronymic":  "Владимирович",
+        "Position":  "Ведущий инженер",
+        "Email":  "KarklinAV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-53-32",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "15-74; 53-32",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-011",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22karklinav.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  183171,
+        "Title":  "Карякина Надежда Владимировна",
+        "Firstname":  "Надежда",
+        "Lastname":  "Карякина",
+        "Patronymic":  "Владимировна",
+        "Position":  "Руководитель направления",
+        "Email":  "KaryakinaNV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 434-19-29",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "13-08",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042928,
+                           "Title":  "Сектор координации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-212",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22karyakinanv.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  182313,
+        "Title":  "Ковалев Павел Михайлович",
+        "Firstname":  "Павел",
+        "Lastname":  "Ковалев",
+        "Patronymic":  "Михайлович",
+        "Position":  "Главный инженер",
+        "Email":  "KovalevPM@cbr.ru",
+        "Sip":  "sip:KovalevPM@cbr.ru",
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "13-07",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-011",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kovalevpm.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  262142,
+        "Title":  "Козлова Елена Вячеславовна",
+        "Firstname":  "Елена",
+        "Lastname":  "Козлова",
+        "Patronymic":  "Вячеславовна",
+        "Position":  "Ведущий экономист",
+        "Email":  "KozlovaEV01@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-42",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-42",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-109",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kozlovaev.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  263040,
+        "Title":  "Колесов Сергей Александрович",
+        "Firstname":  "Сергей",
+        "Lastname":  "Колесов",
+        "Patronymic":  "Александрович",
+        "Position":  "Ведущий инженер",
+        "Email":  "KolesovSA@cbr.ru",
+        "Sip":  "sip:KolesovSA@cbr.ru",
+        "WorkPhone":  "(831) 249-54-00",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-208",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kolesovsa.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  169256,
+        "Title":  "Колесова Светлана Анатольевна",
+        "Firstname":  "Светлана",
+        "Lastname":  "Колесова",
+        "Patronymic":  "Анатольевна",
+        "Position":  "Руководитель направления",
+        "Email":  "kolesovas_a@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-07",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-07",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114б",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kolesovas_a.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  272296,
+        "Title":  "Королёв Вадим Сергеевич",
+        "Firstname":  "Вадим",
+        "Lastname":  "Королёв",
+        "Patronymic":  "Сергеевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "KorolevVS@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-98-18",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-18",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  190027,
+        "Title":  "Короткова Юлия Анатольевна",
+        "Firstname":  "Юлия",
+        "Lastname":  "Короткова",
+        "Patronymic":  "Анатольевна",
+        "Position":  "Эксперт 1 категории",
+        "Email":  "KorotkovaYA@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 438-19-77",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-62-99; 19-77",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=4476; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Эксперт 1 категории; UserName=Короткова Юлия Анатольевна; PositionId=11; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25550; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22korotkovaya.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  192091,
+        "Title":  "Косарева Марина Игоревна",
+        "Firstname":  "Марина",
+        "Lastname":  "Косарева",
+        "Patronymic":  "Игоревна",
+        "Position":  "Главный экономист",
+        "Email":  "KosarevaMI@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-46; (831) 249-53-41",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "53-41; 54-46",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kosarevami.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  180998,
+        "Title":  "Кочнев Андрей Александрович",
+        "Firstname":  "Андрей",
+        "Lastname":  "Кочнев",
+        "Patronymic":  "Александрович",
+        "Position":  "Главный инженер",
+        "Email":  "KochnevAA@cbr.ru",
+        "Sip":  "sip:22KochnevAA@cbr.ru",
+        "WorkPhone":  "(831) 431-98-60",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-60",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042908,
+                           "Title":  "Сектор сопровождения прикладных платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-203",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=22; Department=; ReasonForAbsence=отсутствие по другим причинам; AbsentPeriod=; Position=Главный инженер; UserName=Кочнев Андрей Александрович; PositionId=5; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25761; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22kochnevaa.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  167750,
+        "Title":  "Кузнецова Елена Александровна",
+        "Firstname":  "Елена",
+        "Lastname":  "Кузнецова",
+        "Patronymic":  "Александровна",
+        "Position":  "Ведущий экономист",
+        "Email":  "KuznecovaEA01@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-71",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-71",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "(255) ",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-209",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kuznecovaea.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  260762,
+        "Title":  "Кулыгин Сергей Вячеславович",
+        "Firstname":  "Сергей",
+        "Lastname":  "Кулыгин",
+        "Patronymic":  "Вячеславович",
+        "Position":  "Ведущий инженер",
+        "Email":  "KulyginSV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "10-40",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22kulyginsv.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  256053,
+        "Title":  "Ладина Наталия Николаевна",
+        "Firstname":  "Наталия",
+        "Lastname":  "Ладина",
+        "Patronymic":  "Николаевна",
+        "Position":  "Ведущий экономист",
+        "Email":  "LadinaNN@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-55",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-33",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042928,
+                           "Title":  "Сектор координации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-214",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=3577; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Ведущий экономист; UserName=Ладина Наталия Николаевна; PositionId=12; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25331; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22ladinann.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  165430,
+        "Title":  "Лебедева Татьяна Евгеньевна",
+        "Firstname":  "Татьяна",
+        "Lastname":  "Лебедева",
+        "Patronymic":  "Евгеньевна",
+        "Position":  "Экономист 1 категории",
+        "Email":  "LebedevaTE@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  null,
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042909,
+                           "Title":  "Сектор эксплуатации технологических платформ и систем"
+                       },
+        "Workplace":  null,
+        "Absences":  [
+                         "@{User=; UserSpId=2869; Department=; ReasonForAbsence=отсутствие по другим причинам; AbsentPeriod=; Position=Экономист 1 категории; UserName=Лебедева Татьяна Евгеньевна; PositionId=22; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25765; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22lebedevate.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  185843,
+        "Title":  "Лелюх Алена Владимировна",
+        "Firstname":  "Алена",
+        "Lastname":  "Лелюх",
+        "Patronymic":  "Владимировна",
+        "Position":  "Главный инженер",
+        "Email":  "LeluhAV@cbr.ru",
+        "Sip":  "sip:LeluhAV@cbr.ru",
+        "WorkPhone":  "(831) 249-54-05",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-05; 55-10",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042909,
+                           "Title":  "Сектор эксплуатации технологических платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-313",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22leluhav.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  167747,
+        "Title":  "Лубенкова Татьяна Юрьевна",
+        "Firstname":  "Татьяна",
+        "Lastname":  "Лубенкова",
+        "Patronymic":  "Юрьевна",
+        "Position":  "Главный экономист",
+        "Email":  "LubenkovaTYU@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-73",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-73",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042909,
+                           "Title":  "Сектор эксплуатации технологических платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-314",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=1215; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Главный экономист; UserName=Лубенкова Татьяна Юрьевна; PositionId=18; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25333; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22lubenkovatyu.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  175593,
+        "Title":  "Максимова Наталья Юрьевна",
+        "Firstname":  "Наталья",
+        "Lastname":  "Максимова",
+        "Patronymic":  "Юрьевна",
+        "Position":  "Руководитель направления",
+        "Email":  "MaksimovaNYU@cbr.ru",
+        "Sip":  "sip:MaksimovaNYU@cbr.ru",
+        "WorkPhone":  "(831) 431-97-56; (831) 249-53-66",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-56; 53-66",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042927,
+                           "Title":  "Отдел координации и планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-212",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=2273; Department=; ReasonForAbsence=отпуск; AbsentPeriod=; Position=Руководитель направления; UserName=Максимова Наталья Юрьевна; PositionId=37; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25555; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22maksimovanyu.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  203727,
+        "Title":  "Маркова Ирина Владимировна",
+        "Firstname":  "Ирина",
+        "Lastname":  "Маркова",
+        "Patronymic":  "Владимировна",
+        "Position":  "Ведущий экономист",
+        "Email":  "MarkovaIV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-98-05",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-05; 55-24",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042928,
+                           "Title":  "Сектор координации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-214",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22markovaiv.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  171862,
+        "Title":  "Мосеев Михаил Альбертович",
+        "Firstname":  "Михаил",
+        "Lastname":  "Мосеев",
+        "Patronymic":  "Альбертович",
+        "Position":  "Ведущий инженер",
+        "Email":  "MoseevMA@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-99",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-62-62; 53-26",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22moseevma.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  183577,
+        "Title":  "Муравьева Евгения Петровна",
+        "Firstname":  "Евгения",
+        "Lastname":  "Муравьева",
+        "Patronymic":  "Петровна",
+        "Position":  "Ведущий экономист",
+        "Email":  "MuravevaEP@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-49",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-49",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22muravevaep.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  270641,
+        "Title":  "Овчинников Олег Игоревич",
+        "Firstname":  "Олег",
+        "Lastname":  "Овчинников",
+        "Patronymic":  "Игоревич",
+        "Position":  "Ведущий инженер",
+        "Email":  "ovchinnikovoi@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "49-58",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042908,
+                           "Title":  "Сектор сопровождения прикладных платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-203",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/Avatar_1.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  166408,
+        "Title":  "Оперативный",
+        "Firstname":  null,
+        "Lastname":  "Оперативный",
+        "Patronymic":  null,
+        "Position":  "_",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-92; (831) 249-53-92",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-92; 53-92",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-206",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  174496,
+        "Title":  "Орлова Ольга Владимировна",
+        "Firstname":  "Ольга",
+        "Lastname":  "Орлова",
+        "Patronymic":  "Владимировна",
+        "Position":  "Ведущий экономист",
+        "Email":  "OrlovaOV02@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-26",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-26",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114б",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22orlovaov.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  175756,
+        "Title":  "Подтележников Алексей Иванович",
+        "Firstname":  "Алексей",
+        "Lastname":  "Подтележников",
+        "Patronymic":  "Иванович",
+        "Position":  "Ведущий инженер",
+        "Email":  "PodtelezAI@cbr.ru",
+        "Sip":  "sip:22PodtelezAI@cbr.ru",
+        "WorkPhone":  "(831) 431-98-65",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-65",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"В\", к. В-202",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22podtelezai.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  181684,
+        "Title":  "Поляков Вячеслав Александрович",
+        "Firstname":  "Вячеслав",
+        "Lastname":  "Поляков",
+        "Patronymic":  "Александрович",
+        "Position":  "Руководитель направления",
+        "Email":  "PoliakovVA@cbr.ru",
+        "Sip":  "sip:22PoliakovVA@cbr.ru",
+        "WorkPhone":  "(831) 431-96-18",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-18",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22poliakovva.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  168279,
+        "Title":  "Попов Николай Александрович",
+        "Firstname":  "Николай",
+        "Lastname":  "Попов",
+        "Patronymic":  "Александрович",
+        "Position":  "Главный инженер",
+        "Email":  "PopovNA@cbr.ru",
+        "Sip":  "sip:22PopovNA@cbr.ru",
+        "WorkPhone":  "(831) 431-97-27",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-27; 41-61-65",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-205",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22popovna.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  162569,
+        "Title":  "Поцелуев Сергей Валентинович",
+        "Firstname":  "Сергей",
+        "Lastname":  "Поцелуев",
+        "Patronymic":  "Валентинович",
+        "Position":  "Главный инженер",
+        "Email":  "PocelSV@cbr.ru",
+        "Sip":  "sip:PocelSV@cbr.ru",
+        "WorkPhone":  "(831) 438-18-02",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "12-02; 41-61-69",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-205",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22pocelsv.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  272297,
+        "Title":  "Рогов Дмитрий Сергеевич",
+        "Firstname":  "Дмитрий",
+        "Lastname":  "Рогов",
+        "Patronymic":  "Сергеевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "RogovDS@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-50",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-50",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-210",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  174442,
+        "Title":  "Салмин Андрей Дмитриевич",
+        "Firstname":  "Андрей",
+        "Lastname":  "Салмин",
+        "Patronymic":  "Дмитриевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "SalminAD@cbr.ru",
+        "Sip":  "sip:22SalminAD@cbr.ru",
+        "WorkPhone":  "(831) 249-54-04",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-04",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-209",
+                          "Floor":  null
+                      },
+        "Absences":  [
+                         "@{User=; UserSpId=6907; Department=; ReasonForAbsence=отсутствие по другим причинам; AbsentPeriod=; Position=Ведущий инженер; UserName=Салмин Андрей Дмитриевич; PositionId=6; Performers=System.Collections.ArrayList; IsNew=False; WebId=6be3935d-0752-407f-9dcb-bdc7ef5213f8; SiteId=1d865165-1eae-4c61-a63c-43ceeae41043; List=55212ce8-b97d-4169-b0cc-745abf452429; ID=25782; Comments=}"
+                     ],
+        "Photo":  "/user_photo/region_22salminad.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  184047,
+        "Title":  "Самсонова Людмила Владимировна",
+        "Firstname":  "Людмила",
+        "Lastname":  "Самсонова",
+        "Patronymic":  "Владимировна",
+        "Position":  "Главный экономист",
+        "Email":  "SamsonovaLV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-17; (831) 249-53-94",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-17; 53-94",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-107",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22samsonovalv.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  185418,
+        "Title":  "Семенютин Иван Александрович",
+        "Firstname":  "Иван",
+        "Lastname":  "Семенютин",
+        "Patronymic":  "Александрович",
+        "Position":  "Главный инженер",
+        "Email":  "semenutinIA@cbr.ru",
+        "Sip":  "sip:22semenutinIA@cbr.ru",
+        "WorkPhone":  "(831) 431-96-37",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-34; 16-37",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-208",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22semenutinia.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  173725,
+        "Title":  "Серверная",
+        "Firstname":  null,
+        "Lastname":  "Серверная",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "10-97",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Р\", к. Р-308",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_3.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  177543,
+        "Title":  "Серверная",
+        "Firstname":  null,
+        "Lastname":  "Серверная",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "10-73",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-040",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  180050,
+        "Title":  "Серверная",
+        "Firstname":  null,
+        "Lastname":  "Серверная",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-85",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-85",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Б\", к. Б-210",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  192214,
+        "Title":  "Серверная",
+        "Firstname":  null,
+        "Lastname":  "Серверная",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "10-72",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-041",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  196322,
+        "Title":  "Серверная",
+        "Firstname":  null,
+        "Lastname":  "Серверная",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "14-58",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Х\", к. Х-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  183424,
+        "Title":  "Серверная-2",
+        "Firstname":  null,
+        "Lastname":  "Серверная-2",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "45-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "Ошарская, к. Ошарская",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  172797,
+        "Title":  "Соколов Илья Игоревич",
+        "Firstname":  "Илья",
+        "Lastname":  "Соколов",
+        "Patronymic":  "Игоревич",
+        "Position":  "Главный инженер",
+        "Email":  "SokolovII@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-96-74",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-74",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22sokolovii.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  180467,
+        "Title":  "Сотрудники отдела",
+        "Firstname":  null,
+        "Lastname":  "Сотрудники отдела",
+        "Patronymic":  null,
+        "Position":  "_",
+        "Email":  "LyakaevVE@cbr.ru",
+        "Sip":  "sip:LyakaevVE@cbr.ru",
+        "WorkPhone":  "(831) 431-96-63",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "16-63",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-011",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  180749,
+        "Title":  "Сотрудники отдела",
+        "Firstname":  null,
+        "Lastname":  "Сотрудники отдела",
+        "Patronymic":  null,
+        "Position":  "_",
+        "Email":  "BobIV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-98-18",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-18",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  188673,
+        "Title":  "Сотрудники отдела",
+        "Firstname":  null,
+        "Lastname":  "Сотрудники отдела",
+        "Patronymic":  null,
+        "Position":  "_",
+        "Email":  "KalinkinPM@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 438-19-99",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "19-99; 54-11",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\"",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  270142,
+        "Title":  "Тараканов Роман Игоревич",
+        "Firstname":  "Роман",
+        "Lastname":  "Тараканов",
+        "Patronymic":  "Игоревич",
+        "Position":  "Ведущий инженер",
+        "Email":  "tarakanovri@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-53-69",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "15-32; 53-69",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-011",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22tarakanovri.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  188676,
+        "Title":  "Транковые радиостанции отдела",
+        "Firstname":  null,
+        "Lastname":  "Транковые радиостанции отдела",
+        "Patronymic":  null,
+        "Position":  "_",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "37-48; 37-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\"",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_2.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  175853,
+        "Title":  "Удоев Валентин Юрьевич",
+        "Firstname":  "Валентин",
+        "Lastname":  "Удоев",
+        "Patronymic":  "Юрьевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "UdoevVU@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "15-83",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042905,
+                           "Title":  "Отдел сопровождения рабочих мест и офисной техники"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-205",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22udoevvu.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  162085,
+        "Title":  "Узел СКС  здание \"Д\"  1 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  здание \"Д\"  1 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "14-95",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-103",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_3.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  189846,
+        "Title":  "Узел СКС  здание \"Д\"  2  этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  здание \"Д\"  2  этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-72",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-206",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_2.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  162084,
+        "Title":  "Узел СКС  здание \"Д\"  3 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  здание \"Д\"  3 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-16",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-306",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_2.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  189845,
+        "Title":  "Узел СКС  здание \"Д\"  5 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  здание \"Д\"  5 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-62",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-504",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  162086,
+        "Title":  "Узел СКС  здание \"ХЭУ\"  3 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  здание \"ХЭУ\"  3 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "13-28",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Х\", к. Х-301",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  196868,
+        "Title":  "Узел СКС  на Рождественской",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  на Рождественской",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "25-11",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"ул. Рождественская 27\", к. Рж-114",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_4.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  192831,
+        "Title":  "Узел СКС  РЦИ 1 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  РЦИ 1 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-39",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Р\", к. Р-103",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  189088,
+        "Title":  "Узел СКС  РЦИ 2 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  РЦИ 2 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-48",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Р\", к. Р-211",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  192832,
+        "Title":  "Узел СКС  РЦИ 3 этаж",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС  РЦИ 3 этаж",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "11-51",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Р\", к. Р-305",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_6.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  162075,
+        "Title":  "Узел СКС цоколь здания \"A\"",
+        "Firstname":  null,
+        "Lastname":  "Узел СКС цоколь здания \"A\"",
+        "Patronymic":  null,
+        "Position":  "Технологическая комната",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "10-90",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340040634,
+                           "Title":  "Технологические помещения"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-006",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_5.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  189089,
+        "Title":  "Факс отдела",
+        "Firstname":  null,
+        "Lastname":  "Факс отдела",
+        "Patronymic":  null,
+        "Position":  "Факс",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-98-99; 431-98-99",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "18-99",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-211",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_1.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  189642,
+        "Title":  "Факс отдела",
+        "Firstname":  null,
+        "Lastname":  "Факс отдела",
+        "Patronymic":  null,
+        "Position":  "Факс",
+        "Email":  null,
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "13-43",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042910,
+                           "Title":  "Отдел эксплуатации телекоммуникационной и вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/_layouts/15/WSSC.PRT.PNT6.Design/Img/avatars/happy/Avatar_2.png",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  186139,
+        "Title":  "Федотова Татьяна Владимировна",
+        "Firstname":  "Татьяна",
+        "Lastname":  "Федотова",
+        "Patronymic":  "Владимировна",
+        "Position":  "Главный инженер",
+        "Email":  "FedotovaTV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 438-19-26",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "19-26",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042907,
+                           "Title":  "Сектор эксплуатации УОС и АС ЭКР"
+                       },
+        "Workplace":  {
+                          "Title":  "\"А\", к. А-114в",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22fedotovatv.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  260488,
+        "Title":  "Хомутов Евгений Владимирович",
+        "Firstname":  "Евгений",
+        "Lastname":  "Хомутов",
+        "Patronymic":  "Владимирович",
+        "Position":  "Главный инженер",
+        "Email":  "KhomutovEV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 438-19-00",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "41-61-00; 19-00",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22khomutovev.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  166409,
+        "Title":  "Царькова Жанна Александровна",
+        "Firstname":  "Жанна",
+        "Lastname":  "Царькова",
+        "Patronymic":  "Александровна",
+        "Position":  "Ведущий экономист",
+        "Email":  "TsarkovaZHA@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-57",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-57",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042928,
+                           "Title":  "Сектор координации"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-213",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22tsarkovazha.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "530d3211-9a10-4213-8256-46609ff8e0cb",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  166871,
+        "Title":  "Цветков Александр Федорович",
+        "Firstname":  "Александр",
+        "Lastname":  "Цветков",
+        "Patronymic":  "Федорович",
+        "Position":  "Главный инженер",
+        "Email":  "TsvetkovAF@cbr.ru",
+        "Sip":  "sip:22TsvetkovAF@cbr.ru",
+        "WorkPhone":  "(831) 431-97-38",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-38",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042926,
+                           "Title":  "Сектор эксплуатации вычислительной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-210",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22tsvetkovaf.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "9e816455-0dde-4915-808b-46d79b75ceb4",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  174078,
+        "Title":  "Шалаева Елена Олеговна",
+        "Firstname":  "Елена",
+        "Lastname":  "Шалаева",
+        "Patronymic":  "Олеговна",
+        "Position":  "Главный экономист",
+        "Email":  "ShalaevaEO@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  null,
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "14-23",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042929,
+                           "Title":  "Сектор планово-договорной работы"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-107",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22shalaevaeo.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "9e816455-0dde-4915-808b-46d79b75ceb4",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  266043,
+        "Title":  "Шестакова Елена Михайловна",
+        "Firstname":  "Елена",
+        "Lastname":  "Шестакова",
+        "Patronymic":  "Михайловна",
+        "Position":  "Ведущий инженер",
+        "Email":  "ShestakovaEM@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 431-97-69",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "17-69",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042909,
+                           "Title":  "Сектор эксплуатации технологических платформ и систем"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-313",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22shestakovaem.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "9e816455-0dde-4915-808b-46d79b75ceb4",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  261171,
+        "Title":  "Шмаров Олег Сергеевич",
+        "Firstname":  "Олег",
+        "Lastname":  "Шмаров",
+        "Patronymic":  "Сергеевич",
+        "Position":  "Ведущий инженер",
+        "Email":  "ShmarovOS@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 249-54-92",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "54-92; 41-63-92; 30-77",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-207",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22shmarovos.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "9e816455-0dde-4915-808b-46d79b75ceb4",
+        "PSShowComputerName":  false
+    },
+    {
+        "ID":  183687,
+        "Title":  "Якубец Андрей Викторович",
+        "Firstname":  "Андрей",
+        "Lastname":  "Якубец",
+        "Patronymic":  "Викторович",
+        "Position":  "Главный инженер",
+        "Email":  "YakubesAV@cbr.ru",
+        "Sip":  null,
+        "WorkPhone":  "(831) 438-19-55",
+        "WorkFax":  null,
+        "WorkPhoneFax":  null,
+        "AdditionPhone":  "55-32; 41-63-55; 19-55",
+        "AdditionFax":  null,
+        "AdditionPhoneFax":  null,
+        "RegionCode":  "",
+        "StickerUrl":  null,
+        "Department":  {
+                           "ID":  340042925,
+                           "Title":  "Сектор эксплуатации телекоммуникационной инфраструктуры"
+                       },
+        "Workplace":  {
+                          "Title":  "\"Д\", к. Д-105",
+                          "Floor":  null
+                      },
+        "Absences":  [
+
+                     ],
+        "Photo":  "/user_photo/region_22yakubesav.jpg",
+        "PSComputerName":  "localhost",
+        "RunspaceId":  "9e816455-0dde-4915-808b-46d79b75ceb4",
+        "PSShowComputerName":  false
+    }
+]
